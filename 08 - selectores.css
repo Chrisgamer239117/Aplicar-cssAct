@@ -1,0 +1,37 @@
+body {
+    background-color: gray;
+  }
+  header {
+    background-color: yellowgreen;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+  article {
+    float: left;
+    padding: 5px;
+    width: 70%;
+    background-color: #f1f1f1;
+  }
+  h2 {
+    text-align: center;
+  }
+  div {
+    text-align: justify;
+  }
+  li {
+    display: inline;
+  }
+
+  p {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  p {
+      border-style: inset;
+    
+    }
+ 
